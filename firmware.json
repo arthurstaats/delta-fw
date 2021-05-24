@@ -1,5 +1,5 @@
 {
     "fw_version": 0.3,
     "fw_file": "https://github.com/arthurstaats/teste1/raw/main/firmware.bin",
-    "spiffs_file": "-"
+    "spiffs_file": "https://github.com/arthurstaats/teste1/raw/main/spiffs.bin"
 }
